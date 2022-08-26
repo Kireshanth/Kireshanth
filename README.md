@@ -9,5 +9,5 @@ Kireshanth/Kireshanth is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Profile badge](https://www.codewars.com/users/Kireshanth/badges/small)](https://www.codewars.com/users/Kireshanth)
 
-https://www.codewars.com/users/Kireshanth/badges/small
