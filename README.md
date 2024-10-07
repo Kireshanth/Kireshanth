@@ -1,9 +1,5 @@
 Hi, I’m Kireshanth 👋<br>
 
-I’m interested in software development, tech, and sustainable energy. <br>
-
-I’m looking to collaborate on an open source project aimed to help the community. <br>
-
 Feel free to connect with me on twitter [@kireshanth](https://twitter.com/kireshantht)! <br>
 
 <!---
